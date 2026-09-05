@@ -1,7 +1,7 @@
-# Float dividing
+# Float multiplying
 
-a = 10
+a = 11
 b = 5
 
-result_subtraction  = a / b
-print(result_subtraction)
+result_multiplication = a * b
+print(result_multiplication)
